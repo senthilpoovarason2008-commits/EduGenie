@@ -1,0 +1,2 @@
+# EduGenie
+Naan Mudalvan project
