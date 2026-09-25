@@ -1,2 +1,2 @@
-# EduGenie
+# Senthil-GenAi
 Naan Mudalvan project
